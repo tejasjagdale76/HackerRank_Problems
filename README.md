@@ -1,2 +1,2 @@
 # HackerRank_Problems
-# Solving hackerRank problems to practice dsa and inhance my problem solving skills.
+# Solving hackerRank problems to practice DSA and inhance my problem solving skills.
