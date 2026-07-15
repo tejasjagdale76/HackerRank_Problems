@@ -17,7 +17,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class DAY1{
+public class DAY1_Hello_World{
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
 		Scanner scan = new Scanner(System.in); 
