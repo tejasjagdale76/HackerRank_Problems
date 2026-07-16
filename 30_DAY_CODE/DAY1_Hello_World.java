@@ -7,9 +7,7 @@
 // Note: The instructions are Java-based, 
 // but we support submissions in many popular languages.
 //  You can switch languages using the drop-down menu above your editor, 
-// and the  variable may be written differently depending on the best-practice conventions of your submission language.
-
-// Input Format
+// and the  variable may be written differently depending on the best-practice conventions of your submission l
 
 // A single line of text denoting  (the variable whose contents must be printed).
 import java.io.*;
